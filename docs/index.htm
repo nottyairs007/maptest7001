@@ -6,16 +6,16 @@
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.5"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <script src="lib/tdvplayer.js?v=1699377288018"></script>
-    <link rel="preload" href="locale/en.txt?v=1699377288018" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1699377288018" as="script"/>
+    <script src="lib/tdvplayer.js?v=1699379533868"></script>
+    <link rel="preload" href="locale/en.txt?v=1699379533868" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1699379533868" as="script"/>
 	<script src="tdvquiz.js" type="text/javascript"></script>
 	<meta name="description" content="Virtual Tour"/>
 	<meta name="theme-color" content="#FFFFFF"/>
-    <script src="script.js?v=1699377288018"></script>
+    <script src="script.js?v=1699379533868"></script>
     <script type="text/javascript">
         var tour;
-        var devicesUrl = {"mobile":"script_mobile.js?v=1699377288018","ipad":"script_general.js?v=1699377288018","general":"script_general.js?v=1699377288018"};
+        var devicesUrl = {"mobile":"script_mobile.js?v=1699379533868","ipad":"script_general.js?v=1699379533868","general":"script_general.js?v=1699379533868"};
 
         (function()
         {
@@ -58,9 +58,9 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1699377288018');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1699377288018');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1699377288018');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1699379533868');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1699379533868');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1699379533868');
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
@@ -314,7 +314,7 @@
         #viewer { z-index:1; }
         #preloadContainer { z-index:2; opacity:0; background-color:rgba(255,255,255,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
     </style>
-    <link rel="stylesheet" href="fonts.css?v=1699377288018">
+    <link rel="stylesheet" href="fonts.css?v=1699379533868">
 </head>
 <body>
     <div id="preloadContainer" class="fill-viewport"><div style="z-index: 4; position: absolute; overflow: hidden; background-size: contain; background-image: url('loading/HTMLImage_B39C787A_AA84_F430_41CE_B99186620387.png'); background-repeat: no-repeat; background-position: center center; overflow: hidden; right: 1.7420435510887733%; bottom: 62.68256333830108%; width: 98.24%; height: 29.27%" ></div><div style="z-index: 5; position: absolute; overflow: hidden; left: 0%; top: 54.76900149031296%; width: 100.00%; height: 10.00%" ><div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.278688524590164vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="display:inline-block; letter-spacing:0.89vmin; white-space:pre-wrap;font-size:3.28vmin;font-family:'Anakotmai Medium';">Loading  Please wait...</SPAN></SPAN></DIV></div></div><div style="z-index: 6; position: absolute; overflow: hidden; right: 0%; bottom: 53.50223546944864%; width: 99.83%; height: 11.36%" ><div style="text-align:left; color:#000; "><DIV STYLE="line-height:132%;text-align:center;font-size:2.384500745156483vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.38vmin;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-family:'Anakotmai Light';">หน่วยฝึกทหารใหม่ กองพันทหารราบที่ ๑ กรมทหารราบที่ ๗</SPAN></SPAN></DIV><DIV STYLE="line-height:132%;text-align:center;font-size:2.384500745156483vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.38vmin;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-family:'Anakotmai Light';">ค่ายกาวิละ จังหวัดเชียงใหม่</SPAN></SPAN></DIV></div></div></div>
