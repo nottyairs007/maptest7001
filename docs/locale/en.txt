@@ -1,0 +1,260 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_8056CDA1_AA16_A4EE_41B7_AD2851F572FA.url = https://sketchfab.com/models/19eb8e7a1f37407393c8e7795f443b5a/embed?autostart=1&annotations_visible=1&ui_theme=dark
+WebFrame_BC471225_F674_1E3D_41EB_6044606A1BF8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2704.4475068546863!2d9.084299515858387!3d47.32513101537214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479ac361cd61de7b%3A0x4ac6a1e400f1f145!2sLoretostrasse%2018%2C%209620%20Lichtensteig%2C%20Switzerland!5e0!3m2!1sen!2sit!4v1606172459227!5m2!1sen!2sit
+
+## E-Learning
+
+### Answer
+questionOption_B86C8079_A6F2_9C51_41D5_27ECB52BC89C.text = คอเขา
+questionOption_A571653F_8E73_B5FD_419B_F82D9CA30991.text = คอเขา
+questionOption_B82E5504_A611_A5B6_41DC_17B23E99C6ED.text = คอเขา
+questionOption_B844256F_A612_A472_41CD_60D366B440E5.text = คอเขา
+questionOption_B8CA0608_A6F2_A7BF_41E0_A27EC1467C5F.text = คอเขา
+questionOption_B9D75ED0_A6F3_E4AF_41B0_82E4D8E05D16.text = คอเขา
+questionOption_B85218CE_A6F2_6CB3_41B9_AD46F091C581.text = คอเขา
+questionOption_A70DE06F_8E0F_8B9E_41D6_AB190B17772E.text = คอเขา
+questionOption_A4AE3104_8E15_8D83_41D1_954298ABD136.text = คอเขา
+questionOption_B8CA2609_A6F2_A7B1_41A7_34E85B5D9D3D.text = จมูกเขา
+questionOption_B18DF038_A5FE_E291_41B4_23EABE8A1CF5.text = จมูกเขา
+questionOption_B061BAF6_A5FE_E79E_41E1_5E516FE5B580.text = จมูกเขา
+questionOption_B845C56F_A612_A472_41E4_AB6A784F2724.text = จมูกเขา
+questionOption_B8F87D51_A6F2_A5AE_41D3_BB88BB56BA30.text = จมูกเขา
+questionOption_A570A53F_8E73_B5F8_41D3_4DD090B53624.text = จมูกเขา
+questionOption_B9D79ED1_A6F3_E451_41DD_73C361EC75BB.text = จมูกเขา
+questionOption_B86C6079_A6F2_9C51_41C7_45DCD45B00CB.text = จมูกเขา
+questionOption_B80CE9CC_A611_ACB7_41DE_47BB5A41C64A.text = จมูกเขา
+questionOption_B8F85D51_A6F2_A5AE_41C0_4F39BBE024D1.text = ซอกเขา
+questionOption_A40CDFE2_8E13_9487_41E1_B18038DDF4AC.text = ซอกเขา
+questionOption_B18DD038_A5FE_E291_41C5_F063D07B44C7.text = ซอกเขา
+questionOption_A5F648EA_8E0D_9C87_41DB_4C0CD11ACD30.text = ซอกเขา
+questionOption_A4AE2104_8E15_8D83_41D6_66BC020A2BCE.text = ที่ต่ำ
+questionOption_B061AAF6_A5FE_E79E_41D3_A6FA0BB72D55.text = ที่ต่ำ
+questionOption_B18DC038_A5FE_E291_417C_0E280E9F83AB.text = ที่ต่ำ
+questionOption_A4351267_8EF4_8F8D_41BE_A03CAFE345B5.text = ที่ต่ำ
+questionOption_A70DF06F_8E0F_8B9E_41DB_124EBFCAB697.text = ที่ต่ำ
+questionOption_A4AE5104_8E15_8D83_41E1_44C6BF8C371E.text = ยอดเขา
+questionOption_B86CB079_A6F2_9C51_41E0_BD171E743B5B.text = ยอดเขา
+questionOption_A70D8070_8E0F_8B82_41C2_9E10041A4369.text = ยอดเขา
+questionOption_B853C45A_A611_A452_41DF_6B9E6AC37A73.text = ยอดเขา
+questionOption_B8F84D51_A6F2_A5AE_41D4_9F2963CF05B3.text = ยอดเขา
+questionOption_B9D76ED0_A6F3_E4AF_41D6_FABF7FE6FF9D.text = ยอดเขา
+questionOption_B0619AF6_A5FE_E79E_41D6_E5F87513BFF7.text = ยอดเขา
+questionOption_B8CA1608_A6F2_A7BF_41E3_0A85936371D0.text = ยอดเขา
+questionOption_B85208CE_A6F2_6CB3_41D1_B3C95579B6D9.text = ยอดเขา
+questionOption_B86C9079_A6F2_9C51_41E3_01B8F82DA43E.text = สันเขา
+questionOption_B9D74ED0_A6F3_E450_41DD_7151E76AEBCD.text = สันเขา
+questionOption_B852E8CE_A6F2_6CB3_41E4_6278D7A4C848.text = สันเขา
+questionOption_A570D544_8E73_B583_418A_EAF272A3C1DF.text = สันเขา
+questionOption_B83AC843_A611_ABB1_41C2_4DFF9851CE9D.text = สันเขา
+questionOption_B844356F_A612_A472_41E3_88CF65344575.text = สันเขา
+questionOption_B8F86D51_A6F2_A5AE_41D0_707AED455C7F.text = สันเขา
+questionOption_B8CA3609_A6F2_A7B1_41B1_8306381B26DA.text = สันเขา
+questionOption_B844156F_A612_A472_41DC_ABD5CFC78852.text = หน้าผา
+questionOption_A4467008_8EF4_8B83_41DC_2FB25D00E463.text = หน้าผา
+questionOption_B852F8CF_A6F2_6CB1_41B4_1063EF60D525.text = หุบเขา
+questionOption_A46BBD4F_8EF4_959D_41D0_F4CF00F90ED1.text = หุบเขา
+questionOption_B0604AF6_A5FE_E79E_41E3_39BCB0A3CB82.text = หุบเขา
+questionOption_B18DE038_A5FE_E291_41BD_0651AC8E6CD2.text = หุบเขา
+questionOption_A570953F_8E73_B5FD_41BF_248B841E3A9A.text = หุบเขา
+questionOption_A70DB070_8E0F_8B82_41D0_DEC5B2D88B2C.text = แม่น้ำ
+
+### Question
+question_867EEC1C_A616_EBD6_41CD_87B6E978296E.title = ก. คือลักษณภูมิประเทศแบบใด
+question_B8F82D51_A6F2_A5AE_41D1_6B5FA82C5E54.title = ก. คือลักษณภูมิประเทศแบบใด
+question_B8CAC603_A6F2_A7B1_41E4_A000CBA464E2.title = ก. คือลักษณภูมิประเทศแบบใด
+question_B844556F_A612_A472_41D5_F469C2B04BB1.title = ก. คือลักษณภูมิประเทศแบบใด
+question_B9D72ED0_A6F3_E4AF_41E2_64F99BE6CBDE.title = ก. คือลักษณภูมิประเทศแบบใด
+question_B85238CD_A6F2_6CB1_41AF_06A8544A7BC8.title = ก. คือลักษณภูมิประเทศแบบใด
+question_A70A406E_8E0F_8B9E_41D3_FF1D9A5BCAD1.title = ก. คือลักษณะ๓ูมิประเทศแบบใด
+question_B86CF079_A6F2_9C51_41CE_9AA9A1CC11D8.title = ข. คือลักษณภูมิประเทศแบบใด
+question_A4920104_8E15_8D83_41D7_F064F236B6D8.title = ข. คือลักษณะภูมิประเทศอะไร
+question_A571F53F_8E73_B5FD_41D4_27F12AB4A1FF.title = ค. คือลักษณะภูมิประเทศอะไร
+question_B0605AF6_A5FE_E79E_41E3_5196857BD9CA.title = ง. คือลักษณะภูมิประเทศอะไร
+question_B18DB038_A5FE_E291_41A3_88DED66E1D86.title = จ. คือลักษณะภูมิประเทศอะไร
+question_A4E2BB75_8EF5_BD8D_41C2_02041DCBD4A1.title = ฉ. คือลักษณะภูมิประเทศอะไร
+
+### Question Screen
+quizQuestion_A889807A_8E3C_8B86_41DB_BAFE0385A380.ok = OK
+
+### Report Screen
+quizScore_A889C07A_8E3C_8B87_41CB_9774DA253371.title = - SCORE -
+quizScore_A889C07A_8E3C_8B87_41CB_9774DA253371.completion = Completed
+quizScore_A889C07A_8E3C_8B87_41CB_9774DA253371.questionsCorrect = Correct
+quizScore_A889C07A_8E3C_8B87_41CB_9774DA253371.downloadCSV = Download .csv
+quizScore_A889C07A_8E3C_8B87_41CB_9774DA253371.questionsIncorrect = Incorrect
+quizScore_A889C07A_8E3C_8B87_41CB_9774DA253371.items = Items Found
+quizScore_A889C07A_8E3C_8B87_41CB_9774DA253371.questions = Questions
+quizScore_A889C07A_8E3C_8B87_41CB_9774DA253371.repeat = Repeat
+quizScore_A889C07A_8E3C_8B87_41CB_9774DA253371.submitToLMS = Submit
+quizScore_A889C07A_8E3C_8B87_41CB_9774DA253371.elapsedTime = Time
+
+### Score Name
+score1.label = คะแนน
+
+### Timeout Screen
+quizTimeout_A889A07A_8E3C_8B86_41D3_D6255157B40A.title = - TIMEOUT -
+quizTimeout_A889A07A_8E3C_8B86_41D3_D6255157B40A.repeat = Repeat
+quizTimeout_A889A07A_8E3C_8B86_41D3_D6255157B40A.score = View Score
+
+## Media
+
+### Image
+imlevel_83482B1A_AA8C_55F1_41DC_E74FE0DDC5A1.url = media/zoomImage_842B69B3_AA31_ECD2_41D6_7618130D6B61_en_0_0.jpg
+imlevel_83484B1B_AA8C_55F7_41D0_9CEDCB3E1641.url = media/zoomImage_842B69B3_AA31_ECD2_41D6_7618130D6B61_en_0_1.jpg
+imlevel_83485B1B_AA8C_55F7_41E4_83BA560CD0FE.url = media/zoomImage_842B69B3_AA31_ECD2_41D6_7618130D6B61_en_0_2.jpg
+imlevel_83486B1C_AA8C_55F1_41DE_5E6657C49C99.url = media/zoomImage_842B69B3_AA31_ECD2_41D6_7618130D6B61_en_0_3.jpg
+imlevel_83489B07_AA8C_55DF_41C2_60655880325B.url = media/zoomImage_84C5F37A_A616_7C52_41CC_EEA2DE8FB1E8_en_0_0.jpg
+imlevel_8348AB07_AA8C_55DF_41C9_669514241625.url = media/zoomImage_84C5F37A_A616_7C52_41CC_EEA2DE8FB1E8_en_0_1.jpg
+imlevel_8348BB07_AA8C_55DF_41CE_3091C438E873.url = media/zoomImage_84C5F37A_A616_7C52_41CC_EEA2DE8FB1E8_en_0_2.jpg
+imlevel_8348DB07_AA8C_55DF_41E2_5AF493D628A5.url = media/zoomImage_84C5F37A_A616_7C52_41CC_EEA2DE8FB1E8_en_0_3.jpg
+imlevel_83490AF7_AA8C_543F_41D9_05A8C60D789E.url = media/zoomImage_8685BE91_A631_A4AE_41E4_455D607DF54F_en_0_0.jpg
+imlevel_83491AF7_AA8C_543F_41E0_D0CAEB084D6A.url = media/zoomImage_8685BE91_A631_A4AE_41E4_455D607DF54F_en_0_1.jpg
+imlevel_83493AF8_AA8C_5431_41DA_D4F95F6BF62E.url = media/zoomImage_8685BE91_A631_A4AE_41E4_455D607DF54F_en_0_2.jpg
+imlevel_83494AF8_AA8C_5431_41C2_7A45E3A9B06B.url = media/zoomImage_8685BE91_A631_A4AE_41E4_455D607DF54F_en_0_3.jpg
+imlevel_83498AE6_AA8C_5451_41E0_C8DD02A3011E.url = media/zoomImage_88457BA2_AA9D_B4D1_41DF_4573071482AE_en_0_0.jpg
+imlevel_8349AAE6_AA8C_5451_41E4_2BC12E68E8DF.url = media/zoomImage_88457BA2_AA9D_B4D1_41DF_4573071482AE_en_0_1.jpg
+imlevel_8349BAE7_AA8C_545F_41E0_8B400D7608F5.url = media/zoomImage_88457BA2_AA9D_B4D1_41DF_4573071482AE_en_0_2.jpg
+imlevel_8349CAE7_AA8C_545F_41E3_E2810BB126B5.url = media/zoomImage_88457BA2_AA9D_B4D1_41DF_4573071482AE_en_0_3.jpg
+imlevel_8349EAE7_AA8C_545F_41CB_F4ABC7CAA648.url = media/zoomImage_88457BA2_AA9D_B4D1_41DF_4573071482AE_en_0_4.jpg
+imlevel_8354CB81_AA8C_54D3_41C4_6E6B24815271.url = media/zoomImage_8C079F6E_AAFC_6C51_41E1_F1E338E58C45_en_0_0.jpg
+imlevel_8354EB81_AA8C_54D3_41B0_6FF561720B4E.url = media/zoomImage_8C079F6E_AAFC_6C51_41E1_F1E338E58C45_en_0_1.jpg
+imlevel_83540B81_AA8C_54D3_41E0_066CA5AAECCA.url = media/zoomImage_8C079F6E_AAFC_6C51_41E1_F1E338E58C45_en_0_2.jpg
+imlevel_83542B81_AA8C_54D3_41D7_801EA3E4BE38.url = media/zoomImage_8C079F6E_AAFC_6C51_41E1_F1E338E58C45_en_0_3.jpg
+imlevel_83547B8E_AA8C_54D1_41E0_67A1B0BB3737.url = media/zoomImage_8D5DDE28_AAFC_6FD1_41D2_16A54B11190E_en_0_0.jpg
+imlevel_8353AB8E_AA8C_54D1_41E5_3FBF8514A30D.url = media/zoomImage_8D5DDE28_AAFC_6FD1_41D2_16A54B11190E_en_0_1.jpg
+imlevel_8353BB8E_AA8C_54D1_41DB_7AC1E9958658.url = media/zoomImage_8D5DDE28_AAFC_6FD1_41D2_16A54B11190E_en_0_2.jpg
+imlevel_8353CB8E_AA8C_54D1_41E2_8223BD40BB36.url = media/zoomImage_8D5DDE28_AAFC_6FD1_41D2_16A54B11190E_en_0_3.jpg
+imlevel_8353EB8F_AA8C_54EF_41B4_871B7799B9C7.url = media/zoomImage_8D5DDE28_AAFC_6FD1_41D2_16A54B11190E_en_0_4.jpg
+imlevel_8357CB2B_AA8C_55D7_41E3_4402698A3D41.url = media/zoomImage_8E5323F8_AA8C_7431_41BE_06C533FF0DBC_en_0_0.jpg
+imlevel_8357DB2B_AA8C_55D7_41DE_334BC19AC359.url = media/zoomImage_8E5323F8_AA8C_7431_41BE_06C533FF0DBC_en_0_1.jpg
+imlevel_83570B2B_AA8C_55D7_41E3_47C9610B2A23.url = media/zoomImage_8E5323F8_AA8C_7431_41BE_06C533FF0DBC_en_0_2.jpg
+imlevel_83571B2C_AA8C_55D1_41D0_AD7632372FE8.url = media/zoomImage_8E5323F8_AA8C_7431_41BE_06C533FF0DBC_en_0_3.jpg
+imlevel_8355AB5B_AA8C_5477_41D2_0D44F528C0E0.url = media/zoomImage_8F2D7238_AA8B_F431_41BC_DD6112D5663A_en_0_0.jpg
+imlevel_8355BB5B_AA8C_5477_41AF_A7AFC27034FC.url = media/zoomImage_8F2D7238_AA8B_F431_41BC_DD6112D5663A_en_0_1.jpg
+imlevel_8355DB5B_AA8C_5477_41B6_F322790D4E1A.url = media/zoomImage_8F2D7238_AA8B_F431_41BC_DD6112D5663A_en_0_2.jpg
+imlevel_8355EB5B_AA8C_5477_41D3_78F1D5E88615.url = media/zoomImage_8F2D7238_AA8B_F431_41BC_DD6112D5663A_en_0_3.jpg
+imlevel_8356EB4A_AA8C_5451_41A6_AAB4A37E8BC7.url = media/zoomImage_8FAEED33_AA84_AC37_41D3_831A532E8955_en_0_0.jpg
+imlevel_83560B4A_AA8C_5451_41A4_0639B855E550.url = media/zoomImage_8FAEED33_AA84_AC37_41D3_831A532E8955_en_0_1.jpg
+imlevel_83561B4B_AA8C_5457_41AE_CFF1F1E2FA44.url = media/zoomImage_8FAEED33_AA84_AC37_41D3_831A532E8955_en_0_2.jpg
+imlevel_83563B4B_AA8C_5457_41C4_A97CAAFA7BFD.url = media/zoomImage_8FAEED33_AA84_AC37_41D3_831A532E8955_en_0_3.jpg
+imlevel_83551B6B_AA8C_5457_41D6_1562A5B7EF1F.url = media/zoomImage_BB4649F8_A944_93EA_4191_3E4461CA4708_en_0_0.jpg
+imlevel_83552B6B_AA8C_5457_41E4_1F922787AFB1.url = media/zoomImage_BB4649F8_A944_93EA_4191_3E4461CA4708_en_0_1.jpg
+imlevel_83553B6B_AA8C_5457_41E2_0B93BC6D55FA.url = media/zoomImage_BB4649F8_A944_93EA_4191_3E4461CA4708_en_0_2.jpg
+imlevel_83555B6B_AA8C_5457_41CD_AC99987DBAC3.url = media/zoomImage_BB4649F8_A944_93EA_4191_3E4461CA4708_en_0_3.jpg
+imlevel_83576B3B_AA8C_5437_41D8_1712D4A2FB1D.url = media/zoomImage_BB677D22_A94C_901F_41BC_169EF38B0AB6_en_0_0.jpg
+imlevel_83568B3B_AA8C_5437_41D5_67C78DF09D02.url = media/zoomImage_BB677D22_A94C_901F_41BC_169EF38B0AB6_en_0_1.jpg
+imlevel_83569B3B_AA8C_5437_41E2_965085145658.url = media/zoomImage_BB677D22_A94C_901F_41BC_169EF38B0AB6_en_0_2.jpg
+imlevel_8356BB3C_AA8C_5431_4188_A4721DB8637C.url = media/zoomImage_BB677D22_A94C_901F_41BC_169EF38B0AB6_en_0_3.jpg
+imlevel_83523BBF_AA8C_542F_41D0_93A37856AECB.url = media/zoomImage_BC2B4ADA_A94B_902F_41E0_222A1D656804_en_0_0.jpg
+imlevel_83525BBF_AA8C_542F_41E0_955B7893BFBC.url = media/zoomImage_BC2B4ADA_A94B_902F_41E0_222A1D656804_en_0_1.jpg
+imlevel_83527BBF_AA8C_542F_41B4_CF974F341536.url = media/zoomImage_BC2B4ADA_A94B_902F_41E0_222A1D656804_en_0_2.jpg
+imlevel_83518BBF_AA8C_542F_41E0_681ABCBCDB22.url = media/zoomImage_BC2B4ADA_A94B_902F_41E0_222A1D656804_en_0_3.jpg
+imlevel_8350ABE5_AA8C_5453_41E1_5F3A321A2B3C.url = media/zoomImage_BC525165_A94C_901A_41E3_828A804EF67C_en_0_0.jpg
+imlevel_8350BBE5_AA8C_5453_41D4_2B6F6357D880.url = media/zoomImage_BC525165_A94C_901A_41E3_828A804EF67C_en_0_1.jpg
+imlevel_8350DBE5_AA8C_5453_41D7_B650BC8069EC.url = media/zoomImage_BC525165_A94C_901A_41E3_828A804EF67C_en_0_2.jpg
+imlevel_8350FBE5_AA8C_5453_41D1_8078746720DF.url = media/zoomImage_BC525165_A94C_901A_41E3_828A804EF67C_en_0_3.jpg
+imlevel_8352BBAE_AA8C_54D1_41D1_142D33691587.url = media/zoomImage_BDA04A2E_A94B_7066_41D6_82609C33ED54_en_0_0.jpg
+imlevel_8352CBAE_AA8C_54D1_41E4_39ABB2C64120.url = media/zoomImage_BDA04A2E_A94B_7066_41D6_82609C33ED54_en_0_1.jpg
+imlevel_8352EBAE_AA8C_54D1_41BE_54F6D53F982A.url = media/zoomImage_BDA04A2E_A94B_7066_41D6_82609C33ED54_en_0_2.jpg
+imlevel_83521BAE_AA8C_54D1_41E1_0A57F4934F93.url = media/zoomImage_BDA04A2E_A94B_7066_41D6_82609C33ED54_en_0_3.jpg
+imlevel_83533B9D_AA8C_54F3_41DD_1C64607EE311.url = media/zoomImage_BF1A9B16_A94B_B024_41B8_6E219386635E_en_0_0.jpg
+imlevel_83534B9D_AA8C_54F3_41E1_F54F8D79E624.url = media/zoomImage_BF1A9B16_A94B_B024_41B8_6E219386635E_en_0_1.jpg
+imlevel_83536B9E_AA8C_54F1_41DB_D43EA8ADFFF1.url = media/zoomImage_BF1A9B16_A94B_B024_41B8_6E219386635E_en_0_2.jpg
+imlevel_83528B9E_AA8C_54F1_41D4_DB26763E1269.url = media/zoomImage_BF1A9B16_A94B_B024_41B8_6E219386635E_en_0_3.jpg
+imlevel_8351FBCF_AA8C_546F_41E0_B7FAE3CD10D6.url = media/zoomImage_BF5099FD_A94C_F3EA_41E1_73D568A3D686_en_0_0.jpg
+imlevel_83511BCF_AA8C_546F_41CB_2FD5C0990FC2.url = media/zoomImage_BF5099FD_A94C_F3EA_41E1_73D568A3D686_en_0_1.jpg
+imlevel_83513BCF_AA8C_546F_41D5_FD2D4E5046D4.url = media/zoomImage_BF5099FD_A94C_F3EA_41E1_73D568A3D686_en_0_2.jpg
+imlevel_83515BD0_AA8C_5471_41C4_BB44E9872BD1.url = media/zoomImage_BF5099FD_A94C_F3EA_41E1_73D568A3D686_en_0_3.jpg
+
+### Popup Image
+
+### Title
+model_BEBD7114_AA8C_D5F1_41D8_2AA34BA2B402.label = 3d_meahongson
+album_824088DB_AA84_7477_4193_72498A8EACAF.label = Photo Album full
+album_8A63A1C6_AA8C_5451_41DB_CB10A2C2B67C.label = Photo Album ก
+album_8A04F70D_AA8C_DDD3_41BD_3B351EF7E01D.label = Photo Album ข
+album_B59B47E5_AA8C_5C53_41D8_5AED031FB63E.label = Photo Album ค
+album_B435D366_AA84_B451_4199_3C2D2609FC0B.label = Photo Album ง
+album_B5898929_AA84_D5D0_41DC_B5EAE77AC46B.label = Photo Album จ
+album_B5C46FFE_AA85_AC31_41E2_B33AF1A7181C.label = Photo Album ฉ
+album_824088DB_AA84_7477_4193_72498A8EACAF_0.label = full
+album_8A63A1C6_AA8C_5451_41DB_CB10A2C2B67C_0.label = ก
+album_824088DB_AA84_7477_4193_72498A8EACAF_1.label = ก
+album_8A04F70D_AA8C_DDD3_41BD_3B351EF7E01D_0.label = ข
+album_824088DB_AA84_7477_4193_72498A8EACAF_2.label = ข
+album_824088DB_AA84_7477_4193_72498A8EACAF_3.label = ค
+album_B59B47E5_AA8C_5C53_41D8_5AED031FB63E_0.label = ค
+album_824088DB_AA84_7477_4193_72498A8EACAF_4.label = ง
+album_B435D366_AA84_B451_4199_3C2D2609FC0B_0.label = ง
+album_B5898929_AA84_D5D0_41DC_B5EAE77AC46B_0.label = จ
+album_824088DB_AA84_7477_4193_72498A8EACAF_5.label = จ
+album_B5C46FFE_AA85_AC31_41E2_B33AF1A7181C_0.label = ฉ
+album_824088DB_AA84_7477_4193_72498A8EACAF_6.label = ฉ
+
+## Skin
+
+### Button
+Button_BF29A3E3_A94C_B01D_41D1_8E60161C9884.label = TEXT BUTTON
+Button_BC5CF163_A94C_901E_41AE_FAAF1F81A1C9.label = TEXT BUTTON
+Button_A70B206C_8E0F_8B82_41CA_6BB752C55DD4.label = ข้อ ก.
+Button_BADF6FD7_A631_A452_41C6_F7F1537ECDF6.label = ข้อ ก.
+Button_A4952103_8E15_8D85_41BE_3A0435A06499.label = ข้อ ข.
+Button_B873D079_A6F2_9C51_41CD_E23030251623.label = ข้อ ข.
+Button_B8C9C601_A6F2_A7B1_41DD_D958BAD1E2F8.label = ข้อ ข.
+Button_B9D40ED0_A6F3_E4AF_41D1_064F55D420EE.label = ข้อ ค.
+Button_A572E53E_8E73_B5FF_41D2_BCEAA992B168.label = ข้อ ค.
+Button_B0608AF4_A5FE_E792_41E3_BE91F11F9604.label = ข้อ ง.
+Button_B85228CC_A6F2_6CB7_41E1_D2C6FA776E1F.label = ข้อ ง.
+Button_B8F80D50_A6F2_A5AE_41C0_FB6C693E146C.label = ข้อ จ.
+Button_B18F5036_A5FE_E291_41E4_48FF2A1B78F5.label = ข้อ จ.
+Button_B83BB56F_A612_A472_41D0_861CE075405E.label = ข้อ ฉ.
+Button_A6250FC1_8E14_B485_41C4_FC9C369D4F72.label = ข้อ ฉ.
+
+### Image
+Image_1103FAD3_0755_0F91_4174_DC9AC10C2755.url = skin/Image_1103FAD3_0755_0F91_4174_DC9AC10C2755_en.png
+Image_A2415DB2_8E13_B487_41DD_559773A331AE.url = skin/Image_A2415DB2_8E13_B487_41DD_559773A331AE_en.png
+Image_A999852B_8E1D_B585_41D5_B927ED952002.url = skin/Image_A999852B_8E1D_B585_41D5_B927ED952002_en.jpg
+Image_BCC8400A_A947_702E_41C1_6379B3F94CDC.url = skin/Image_BCC8400A_A947_702E_41C1_6379B3F94CDC_en.jpg
+Image_BDE1ADFE_FB3E_E68F_41E4_3A47A919EC08.url = skin/Image_BDE1ADFE_FB3E_E68F_41E4_3A47A919EC08_en.png
+Image_BDE1ADFE_FB3E_E68F_41E4_3A47A919EC08_mobile.url = skin/Image_BDE1ADFE_FB3E_E68F_41E4_3A47A919EC08_mobile_en.png
+Image_BE3723E1_A612_65B3_41A7_8967C86A12D9.url = skin/Image_BE3723E1_A612_65B3_41A7_8967C86A12D9_en.jpg
+Image_BEED469C_F674_0613_419A_188F69730270.url = skin/Image_BEED469C_F674_0613_419A_188F69730270_en.png
+
+### Label
+Label_9AFE9A8F_B1D5_AE96_41E0_2C0AE3267778.text = FULL SCREEN
+Label_2105B1B0_06B6_0D62_4172_B0FC70D39470_mobile.text = GYROSCOPE
+Label_D23DE6A0_B66B_A68A_41E0_210CE8D58F95.text = HIDE ALL
+Label_9EC9EAE1_B1D5_AE8A_41D8_32C2317312A5.text = HOT SPOT
+Label_9EC9EAE1_B1D5_AE8A_41D8_32C2317312A5_mobile.text = HOT SPOT
+Label_9BB4A04C_B1DC_999A_41E1_A0AE5EC26BC3.text = SOUND
+Label_9BB4A04C_B1DC_999A_41E1_A0AE5EC26BC3_mobile.text = SOUND
+Label_9AFE9A8F_B1D5_AE96_41E0_2C0AE3267778_mobile.text = VOLLBILD
+Label_2E5A97A3_06BA_1566_4195_A2BF0B34A913_mobile.text = VR
+Label_EDC98328_F674_1E33_41E6_C1E9E250738F.text = ©PIXELPN.COM
+Label_EDC98328_F674_1E33_41E6_C1E9E250738F_mobile.text = ©PIXELPN.COM
+Label_A254E3DB_8E13_8C85_41DD_DF372234BB18.text = กองพันทหารราบที่ ๑ กรมทหารราบที่ ๗
+Label_A3287CE9_8E13_9482_41E0_5C285EC32FFA.text = กองพันทหารราบที่ ๑ กรมทหารราบที่ ๗
+Label_A2E15646_8E0F_F78F_41D4_30CB413A9AA0.text = วิชา แผนที่เข็มทิศ
+
+### Multiline Text
+HTMLText_87B85482_A613_E4B2_41B5_4BBAD1567624.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:19px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:19px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:19px;font-family:'Anakotmai Bold';"><B>คะแนน</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:19px;font-family:'Anakotmai Bold';"><B>{{quiz.score}}</B></SPAN></SPAN></DIV></div>
+HTMLText_BB571037_F674_3A1D_41E3_84921A2B25F6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.7618551328817125vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.76vw;"><B>TITLE</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.7196456487754035vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.72vw;"><B><I>Subtitle</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.63vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.63vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:0.9379885356956744vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:0.94vw;font-family:Tahoma, Geneva, sans-serif;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. </SPAN></SPAN></DIV></div>
+HTMLText_86BA142B_A632_9BF1_41CB_939FF2753B73.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:36px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:36px;font-family:'Anakotmai Bold';">แผนที่</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:15px;font-family:'Anakotmai Light';">แบบจำลองที่เขียนย่อลักษณะภูมิประเทศบนพื้นผิวโลก แสดงถึงแม่น้ำ ภูเขา ทะเลสาบ เส้นทาง และรายละเอียดอื่น ที่เกิดขึ้นจากธรรมชาติ หรือจากมนุษย์สร้างขึ้น มีมาตราส่วนของแผนที่ต่างๆ ตามชนิดของแผนที่นั้น แผนที่มีอยู่หลายชนิด เช่น แผนที่เฉพาะวิชา แผนที่แอตลาส แผนที่ภูมิประเทศ แผนที่รูปถ่าย แผนที่ตัวเมือง แผนที่เส้นทาง และอื่นๆ อีก ตามความต้องการของผู้ใช้ มาตราส่วนของแผนที่ ขึ้นอยู่กับชนิดของแผนที่ เช่น แผนที่เพื่องานวิศวกรรม มีมาตราส่วนใหญ่มาก ตั้งแต่ ๑:๒๐๐ จนถึง ๑:๑,๐๐๐ แผนที่ภูมิประเทศมีมาตราส่วน ๑:๒๕,๐๐๐ ๑:๕๐,๐๐๐ หรือแผนที่ตัวเมือง ๑:๑๒,๕๐๐ เป็นต้น</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:18px;font-family:'Anakotmai Medium';"><B>ระบบกริด</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:15px;font-family:'Anakotmai Light';">เมื่อเรามองหาตำแหน่งที่ใดๆ บนแผนที่ หรือบนลูกโลก เราต้องใช้เส้นลองจิจูด และละติจูดเป็นหลัก โดยอาศัยตำแหน่งที่เส้นสองเส้นนี้ตัดกัน แต่การใช้เส้นอ้างอิงเหล่านี้บนแผนที่มาตราส่วนใหญ่จะเป็นเรื่องที่ยุ่งยากพอสมควร ด้วยเหตุนี้จึงได้คิดใช้ระบบกริดขึ้นแทน ระบบกริดนี้เป็นระบบของเส้นตรงลากตั้งฉากกัน</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:15px;font-family:'Anakotmai Light';">ทางดิ่ง และทางราบ แบ่งแผนที่ออกเป็นจตุรัส</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:15px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:20px;font-family:'Anakotmai Medium';">แผนที่มาตราส่วนต่างๆ</SPAN><SPAN STYLE="color:#666666;font-size:15px;font-family:'Anakotmai Light';"> จะใช้ระบบกริดที่มีระยะห่างกันในหน่วยเมตริก เช่น แผนที่ มาตราส่วน ๑:๒๕๐,๐๐๐ เส้นกริดทางดิ่ง และทางราบจะมีระยะห่างกัน ๑๐ กิโลเมตร หรือแผนที่ ๑:๑๐,๐๐๐ อาจใช้ระยะห่าง ๕๐๐ เมตร เป็นต้น ระบบกริดที่ประเทศไทยใช้อยู่เป็นระบบยูทีเอ็ม หรือยูนิเวอร์แซล ทรานสเวอร์ส เมอร์เคเตอร์ (Universal Transvers Mercator) เป็นระบบจัตุรัสที่มีความยาวด้านละ ๑๐๐ กิโลเมตร การอ้างอิงตำแหน่งของแต่ละตาราง ใช้ตัวอักษร ๒ ตัว เป็นเครื่องกำกับ</SPAN></SPAN></DIV></div>
+HTMLText_9F336D8B_90D4_DB63_41DD_4515A7F8C968.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:25px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:20px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:21px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:25px;font-family:'Anakotmai Bold';"><B>คะแนน</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:25px;font-family:'Anakotmai Bold';"><B>{{quiz.score}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:21px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:21px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:21px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_16F99CE4_067E_14E2_416E_54FBF81C1620_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:1px 1px 5px rgba(0,0,0,0.64);line-height:130%;text-align:left;font-size:5.277777777777777vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="display:inline-block; letter-spacing:0.28vw; white-space:pre-wrap;color:#ffffff;font-size:5.28vw;font-family:'Anakotmai Medium';"><B>วิชาแผนที่ เข็มทิศ</B></SPAN></SPAN></DIV><DIV STYLE="text-shadow:1px 1px 5px rgba(0,0,0,0.64);line-height:130%;text-align:left;font-size:2.5vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.5vw;font-family:'Anakotmai Light';">กองพันทหารราบที่ ๑ กรมทหารราบที่ ๗</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_89732A38_B6AF_69FA_41AD_86B0D722653A_mobile.toolTip = CONTACT
+IconButton_AE77F148_B26C_9B9A_41D8_36C8FE4CE2FD.toolTip = Einstellungen
+IconButton_AE77F148_B26C_9B9A_41D8_36C8FE4CE2FD_mobile.toolTip = Einstellungen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Map Test 7001
